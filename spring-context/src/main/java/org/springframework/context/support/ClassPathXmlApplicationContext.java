@@ -42,6 +42,7 @@ import org.springframework.util.Assert;
  * Consider using the {@link GenericApplicationContext} class in combination
  * with an {@link org.springframework.beans.factory.xml.XmlBeanDefinitionReader}
  * for more flexible context setup.</b>
+ * note
  *
  * @author Rod Johnson
  * @author Juergen Hoeller
